@@ -327,7 +327,7 @@ class PlayState extends MusicBeatState
 
 	override public function create()
 	{
-		Main.dumpCache()
+		Main.dumpCache();
 			
 		//trace('Playback Rate: ' + playbackRate);
 		Paths.clearStoredMemory();
