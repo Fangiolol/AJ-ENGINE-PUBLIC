@@ -1,8 +1,8 @@
 {
 	"songs": [
 		[
-			"Pico",
-			"pico",
+			"Bopeebo",
+			"dad",
 			[
 				146,
 				113,
@@ -10,8 +10,8 @@
 			]
 		],
 		[
-			"Phillly Nice",
-			"pico",
+			"Fresh",
+			"dad",
 			[
 				146,
 				113,
@@ -19,8 +19,8 @@
 			]
 		],
 		[
-			"Blammed",
-			"pico",
+			"Dad Battle",
+			"dad",
 			[
 				146,
 				113,
@@ -28,8 +28,8 @@
 			]
 		],
 		[
-			"Infernal",
-			"pico",
+			"Blue Dude",
+			"dad",
 			[
 				146,
 				113,
@@ -42,7 +42,7 @@
 	"weekBackground": "vazio",
 	"difficulties": "",
 	"weekCharacters": [
-		"vidro",
+		"funkimenu",
 		"toshimenu",
 		"boshimenu"
 	],

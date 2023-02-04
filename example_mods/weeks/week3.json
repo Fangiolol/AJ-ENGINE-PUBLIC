@@ -1,38 +1,11 @@
 {
 	"songs": [
 		[
-			"Pico",
-			"pico",
+			"Date-Night",
+			"gf",
 			[
-				146,
-				113,
-				253
-			]
-		],
-		[
-			"Phillly Nice",
-			"pico",
-			[
-				146,
-				113,
-				253
-			]
-		],
-		[
-			"Blammed",
-			"pico",
-			[
-				146,
-				113,
-				253
-			]
-		],
-		[
-			"Infernal",
-			"pico",
-			[
-				146,
-				113,
+				255,
+				33,
 				253
 			]
 		]
@@ -42,9 +15,9 @@
 	"weekBackground": "vazio",
 	"difficulties": "",
 	"weekCharacters": [
-		"vidro",
-		"toshimenu",
-		"boshimenu"
+		"boshidate",
+		"toshidate",
+		""
 	],
 	"storyName": "luzes pisacantes",
 	"weekName": "luz pisacntes",
