@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"Date-Night",
+			"gf",
+			[
+				255,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"boshimenu",
+		"",
+		"toshimenu"
+	],
+	"storyName": "date",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

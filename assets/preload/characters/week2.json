@@ -1,0 +1,39 @@
+{
+	"songs": [
+		[
+			"Spooleezz",
+			"spooky",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Reuth",
+			"spooky",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekCharacters": [
+		"Spooky",
+		"bf",
+		"gf"
+	],
+	"storyName": "Your New Week",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

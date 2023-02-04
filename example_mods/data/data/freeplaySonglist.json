@@ -1,0 +1,14 @@
+{
+	"songs": [
+		{
+			"bpm": 150,
+			"difficulties": [
+				"Hard"
+			],
+			"displayName": "Date-Night",
+			"char": "gf",
+			"name": "Date-Night",
+			"color": "#CB343C"
+		}
+	]
+}

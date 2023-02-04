@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="toshimenu.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF idle dance0000" x="0" y="0" width="471" height="392" frameX="0" frameY="-20" frameWidth="475" frameHeight="412"/>
+	<SubTexture name="BF idle dance0001" x="471" y="0" width="469" height="392" frameX="-2" frameY="-20" frameWidth="475" frameHeight="412"/>
+	<SubTexture name="BF idle dance0002" x="940" y="0" width="456" height="393" frameX="-16" frameY="-19" frameWidth="475" frameHeight="412"/>
+	<SubTexture name="BF idle dance0003" x="940" y="0" width="456" height="393" frameX="-16" frameY="-19" frameWidth="475" frameHeight="412"/>
+	<SubTexture name="BF idle dance0004" x="1396" y="0" width="432" height="398" frameX="-40" frameY="-14" frameWidth="475" frameHeight="412"/>
+	<SubTexture name="BF idle dance0005" x="1396" y="0" width="432" height="398" frameX="-40" frameY="-14" frameWidth="475" frameHeight="412"/>
+	<SubTexture name="BF idle dance0006" x="0" y="398" width="426" height="411" frameX="-49" frameY="-1" frameWidth="475" frameHeight="412"/>
+	<SubTexture name="BF idle dance0007" x="0" y="398" width="426" height="411" frameX="-49" frameY="-1" frameWidth="475" frameHeight="412"/>
+	<SubTexture name="BF idle dance0008" x="426" y="398" width="448" height="412" frameX="-26" frameY="0" frameWidth="475" frameHeight="412"/>
+	<SubTexture name="BF idle dance0009" x="426" y="398" width="448" height="412" frameX="-26" frameY="0" frameWidth="475" frameHeight="412"/>
+	<SubTexture name="BF idle dance0010" x="874" y="398" width="455" height="412" frameX="-19" frameY="0" frameWidth="475" frameHeight="412"/>
+	<SubTexture name="BF idle dance0011" x="1329" y="398" width="455" height="412" frameX="-19" frameY="0" frameWidth="475" frameHeight="412"/>
+	<SubTexture name="BF idle dance0012" x="0" y="810" width="459" height="412" frameX="-15" frameY="0" frameWidth="475" frameHeight="412"/>
+	<SubTexture name="BF idle dance0013" x="459" y="810" width="459" height="412" frameX="-15" frameY="0" frameWidth="475" frameHeight="412"/>
+</TextureAtlas>

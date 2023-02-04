@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BF_IRRITADO.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF DOWN IRRITED0000" x="0" y="0" width="524" height="429" frameX="0" frameY="0" frameWidth="528" frameHeight="433"/>
+	<SubTexture name="BF DOWN IRRITED0001" x="524" y="0" width="518" height="367" frameX="-7" frameY="-60" frameWidth="528" frameHeight="433"/>
+	<SubTexture name="BF DOWN IRRITED0002" x="1042" y="0" width="519" height="365" frameX="-9" frameY="-62" frameWidth="528" frameHeight="433"/>
+	<SubTexture name="BF DOWN IRRITED0003" x="1561" y="0" width="510" height="364" frameX="-11" frameY="-62" frameWidth="528" frameHeight="433"/>
+	<SubTexture name="BF DOWN IRRITED0004" x="1561" y="0" width="510" height="364" frameX="-11" frameY="-62" frameWidth="528" frameHeight="433"/>
+	<SubTexture name="BF DOWN IRRITED0005" x="2071" y="0" width="507" height="375" frameX="-10" frameY="-58" frameWidth="528" frameHeight="433"/>
+	<SubTexture name="BF DOWN IRRITED0006" x="2578" y="0" width="509" height="375" frameX="-10" frameY="-58" frameWidth="528" frameHeight="433"/>
+	<SubTexture name="BF IDLE IRRITED0000" x="3087" y="0" width="511" height="382" frameX="-11" frameY="-12" frameWidth="566" frameHeight="395"/>
+	<SubTexture name="BF IDLE IRRITED0001" x="0" y="429" width="550" height="382" frameX="-2" frameY="-12" frameWidth="566" frameHeight="395"/>
+	<SubTexture name="BF IDLE IRRITED0002" x="550" y="429" width="564" height="380" frameX="0" frameY="-14" frameWidth="566" frameHeight="395"/>
+	<SubTexture name="BF IDLE IRRITED0003" x="1114" y="429" width="565" height="380" frameX="-1" frameY="-14" frameWidth="566" frameHeight="395"/>
+	<SubTexture name="BF IDLE IRRITED0004" x="1679" y="429" width="558" height="383" frameX="-8" frameY="-11" frameWidth="566" frameHeight="395"/>
+	<SubTexture name="BF IDLE IRRITED0005" x="2237" y="429" width="502" height="383" frameX="-11" frameY="-11" frameWidth="566" frameHeight="395"/>
+	<SubTexture name="BF IDLE IRRITED0006" x="2739" y="429" width="502" height="386" frameX="-12" frameY="-9" frameWidth="566" frameHeight="395"/>
+	<SubTexture name="BF IDLE IRRITED0007" x="3241" y="429" width="486" height="386" frameX="-13" frameY="-9" frameWidth="566" frameHeight="395"/>
+	<SubTexture name="BF IDLE IRRITED0008" x="0" y="815" width="489" height="393" frameX="-18" frameY="-2" frameWidth="566" frameHeight="395"/>
+	<SubTexture name="BF IDLE IRRITED0009" x="489" y="815" width="489" height="393" frameX="-18" frameY="-2" frameWidth="566" frameHeight="395"/>
+	<SubTexture name="BF IDLE IRRITED0010" x="978" y="815" width="485" height="395" frameX="-20" frameY="0" frameWidth="566" frameHeight="395"/>
+	<SubTexture name="BF IDLE IRRITED0011" x="1463" y="815" width="478" height="395" frameX="-20" frameY="0" frameWidth="566" frameHeight="395"/>
+	<SubTexture name="BF IDLE IRRITED0012" x="1941" y="815" width="479" height="394" frameX="-19" frameY="-1" frameWidth="566" frameHeight="395"/>
+	<SubTexture name="BF IDLE IRRITED0013" x="2420" y="815" width="479" height="394" frameX="-19" frameY="-1" frameWidth="566" frameHeight="395"/>
+	<SubTexture name="BF LEFT IRRITED0000" x="2899" y="815" width="434" height="422" frameX="-15" frameY="0" frameWidth="542" frameHeight="422"/>
+	<SubTexture name="BF LEFT IRRITED0001" x="3333" y="815" width="515" height="420" frameX="-2" frameY="-2" frameWidth="542" frameHeight="422"/>
+	<SubTexture name="BF LEFT IRRITED0002" x="0" y="1237" width="529" height="417" frameX="0" frameY="-5" frameWidth="542" frameHeight="422"/>
+	<SubTexture name="BF LEFT IRRITED0003" x="529" y="1237" width="540" height="415" frameX="-2" frameY="-7" frameWidth="542" frameHeight="422"/>
+	<SubTexture name="BF LEFT IRRITED0004" x="529" y="1237" width="540" height="415" frameX="-2" frameY="-7" frameWidth="542" frameHeight="422"/>
+	<SubTexture name="BF LEFT IRRITED0005" x="1069" y="1237" width="518" height="406" frameX="-20" frameY="-16" frameWidth="542" frameHeight="422"/>
+	<SubTexture name="BF LEFT IRRITED0006" x="1069" y="1237" width="518" height="406" frameX="-20" frameY="-16" frameWidth="542" frameHeight="422"/>
+	<SubTexture name="BF RIGHT IRRITED0000" x="1587" y="1237" width="413" height="421" frameX="-15" frameY="0" frameWidth="430" frameHeight="421"/>
+	<SubTexture name="BF RIGHT IRRITED0001" x="2000" y="1237" width="413" height="416" frameX="-17" frameY="-5" frameWidth="430" frameHeight="421"/>
+	<SubTexture name="BF RIGHT IRRITED0002" x="2413" y="1237" width="413" height="414" frameX="-15" frameY="-7" frameWidth="430" frameHeight="421"/>
+	<SubTexture name="BF RIGHT IRRITED0003" x="2826" y="1237" width="413" height="414" frameX="-8" frameY="-7" frameWidth="430" frameHeight="421"/>
+	<SubTexture name="BF RIGHT IRRITED0004" x="2826" y="1237" width="413" height="414" frameX="-8" frameY="-7" frameWidth="430" frameHeight="421"/>
+	<SubTexture name="BF RIGHT IRRITED0005" x="3239" y="1237" width="411" height="413" frameX="0" frameY="-8" frameWidth="430" frameHeight="421"/>
+	<SubTexture name="BF RIGHT IRRITED0006" x="3239" y="1237" width="411" height="413" frameX="0" frameY="-8" frameWidth="430" frameHeight="421"/>
+	<SubTexture name="BF UP IRRITED0000" x="0" y="1658" width="452" height="468" frameX="0" frameY="-11" frameWidth="456" frameHeight="480"/>
+	<SubTexture name="BF UP IRRITED0001" x="452" y="1658" width="422" height="477" frameX="-21" frameY="-3" frameWidth="456" frameHeight="480"/>
+	<SubTexture name="BF UP IRRITED0002" x="874" y="1658" width="422" height="480" frameX="-23" frameY="0" frameWidth="456" frameHeight="480"/>
+	<SubTexture name="BF UP IRRITED0003" x="1296" y="1658" width="422" height="476" frameX="-27" frameY="-4" frameWidth="456" frameHeight="480"/>
+	<SubTexture name="BF UP IRRITED0004" x="1718" y="1658" width="420" height="476" frameX="-27" frameY="-4" frameWidth="456" frameHeight="480"/>
+	<SubTexture name="BF UP IRRITED0005" x="2138" y="1658" width="415" height="451" frameX="-41" frameY="-27" frameWidth="456" frameHeight="480"/>
+	<SubTexture name="BF UP IRRITED0006" x="2138" y="1658" width="415" height="451" frameX="-41" frameY="-27" frameWidth="456" frameHeight="480"/>
+</TextureAtlas>

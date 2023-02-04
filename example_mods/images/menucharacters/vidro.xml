@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="vidro.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Pico Idle Dance0000" x="0" y="0" width="641" height="372" frameX="-13" frameY="0" frameWidth="654" frameHeight="373"/>
+	<SubTexture name="Pico Idle Dance0001" x="0" y="0" width="641" height="372" frameX="-13" frameY="0" frameWidth="654" frameHeight="373"/>
+	<SubTexture name="Pico Idle Dance0002" x="0" y="372" width="527" height="372" frameX="0" frameY="-1" frameWidth="654" frameHeight="373"/>
+	<SubTexture name="Pico Idle Dance0003" x="0" y="372" width="527" height="372" frameX="0" frameY="-1" frameWidth="654" frameHeight="373"/>
+	<SubTexture name="Pico Idle Dance0004" x="0" y="372" width="527" height="372" frameX="0" frameY="-1" frameWidth="654" frameHeight="373"/>
+	<SubTexture name="Pico Idle Dance0005" x="0" y="372" width="527" height="372" frameX="0" frameY="-1" frameWidth="654" frameHeight="373"/>
+	<SubTexture name="Pico Idle Dance0006" x="0" y="372" width="527" height="372" frameX="0" frameY="-1" frameWidth="654" frameHeight="373"/>
+	<SubTexture name="Pico Idle Dance0007" x="0" y="372" width="527" height="372" frameX="0" frameY="-1" frameWidth="654" frameHeight="373"/>
+	<SubTexture name="Pico Idle Dance0008" x="0" y="372" width="527" height="372" frameX="0" frameY="-1" frameWidth="654" frameHeight="373"/>
+	<SubTexture name="Pico Idle Dance0009" x="0" y="372" width="527" height="372" frameX="0" frameY="-1" frameWidth="654" frameHeight="373"/>
+	<SubTexture name="Pico Idle Dance0010" x="0" y="372" width="527" height="372" frameX="0" frameY="-1" frameWidth="654" frameHeight="373"/>
+	<SubTexture name="Pico Idle Dance0011" x="0" y="0" width="641" height="372" frameX="-13" frameY="0" frameWidth="654" frameHeight="373"/>
+	<SubTexture name="Pico Idle Dance0012" x="0" y="0" width="641" height="372" frameX="-13" frameY="0" frameWidth="654" frameHeight="373"/>
+	<SubTexture name="Pico Idle Dance0013" x="0" y="372" width="527" height="372" frameX="0" frameY="-1" frameWidth="654" frameHeight="373"/>
+</TextureAtlas>

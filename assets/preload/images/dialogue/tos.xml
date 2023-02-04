@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="tos.png" width="258" height="307">
+  <SubTexture name="toshi0000" x="0" y="0"  width="258.40000000000003" height="307.20000000000005" frameX="-0" frameY="-28" frameWidth="258.40000000000003" frameHeight="344"/>
+</TextureAtlas>

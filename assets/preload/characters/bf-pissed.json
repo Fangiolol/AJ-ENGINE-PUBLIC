@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "BF IDLE IRRITED"
+		},
+		{
+			"offsets": [
+				-39,
+				43
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "BF LEFT IRRITED"
+		},
+		{
+			"offsets": [
+				0,
+				61
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "BF DOWN IRRITED"
+		},
+		{
+			"offsets": [
+				-73,
+				91
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "BF UP IRRITED"
+		},
+		{
+			"offsets": [
+				-114,
+				38
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "BF RIGHT IRRITED"
+		},
+		{
+			"offsets": [
+				90,
+				70
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hit",
+			"loop": false,
+			"name": "BF HIT IRRITED"
+		},
+		{
+			"offsets": [
+				545,
+				40
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "BF SHOOT IRRITED"
+		},
+		{
+			"offsets": [
+				545,
+				39
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "BF SHOOT IRRITED"
+		},
+		{
+			"offsets": [
+				550,
+				40
+			],
+			"indices": [],
+			"fps": 25,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "BF IRRITED SHOOT IRRITED ALT"
+		},
+		{
+			"offsets": [
+				550,
+				40
+			],
+			"indices": [],
+			"fps": 25,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "BF IRRITED SHOOT IRRITED ALT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BF_PISSED",
+	"position": [
+		-70,
+		410
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

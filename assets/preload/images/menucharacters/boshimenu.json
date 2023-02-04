@@ -1,0 +1,11 @@
+{
+	"idle_anim": "GF Dancing Beat WHITE",
+	"image": "boshimenu",
+	"position": [
+		124,
+		158
+	],
+	"flipX": false,
+	"scale": 0.55,
+	"confirm_anim": "M Dad Idle"
+}
