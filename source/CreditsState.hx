@@ -39,6 +39,8 @@ class CreditsState extends MusicBeatState
 
 	override function create()
 	{
+		Main.dumpCache();
+		
 		#if FEATURE_DISCORD_RPC
 		// Updating Discord Rich Presence
 		DiscordClient.changePresence("Nos Menus", null);
