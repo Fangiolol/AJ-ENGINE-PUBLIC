@@ -4,16 +4,16 @@
 			"Pico",
 			"pico",
 			[
-				0,
+				146,
 				113,
 				253
 			]
 		],
 		[
-			"Philly Nice",
+			"Phillly Nice",
 			"pico",
 			[
-				0,
+				146,
 				113,
 				253
 			]
@@ -22,16 +22,16 @@
 			"Blammed",
 			"pico",
 			[
-				0,
+				146,
 				113,
 				253
 			]
 		],
 		[
-			"infernal",
+			"Infernal",
 			"pico",
 			[
-				0,
+				146,
 				113,
 				253
 			]
@@ -39,15 +39,15 @@
 	],
 	"hiddenUntilUnlocked": false,
 	"hideFreeplay": false,
-	"weekBackground": "stage",
+	"weekBackground": "vazio",
 	"difficulties": "",
 	"weekCharacters": [
 		"vidro",
 		"toshimenu",
 		"boshimenu"
 	],
-	"storyName": "CUIDADO: luzes piscantes",
-	"weekName": "Custom Week",
+	"storyName": "luzes pisacantes",
+	"weekName": "luz pisacntes",
 	"freeplayColor": [
 		146,
 		113,

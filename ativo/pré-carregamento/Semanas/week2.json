@@ -27,17 +27,27 @@
 				253
 			]
 		],
+		[
+			"Blue Dude",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
 	"hiddenUntilUnlocked": false,
 	"hideFreeplay": false,
-	"weekBackground": "stage",
+	"weekBackground": "vazio",
 	"difficulties": "",
 	"weekCharacters": [
 		"funkimenu",
 		"toshimenu",
 		"boshimenu"
 	],
-	"storyName": "luzes piscantes",
-	"weekName": "ie",
+	"storyName": "luzes pisacantes",
+	"weekName": "luz pisacntes",
 	"freeplayColor": [
 		146,
 		113,

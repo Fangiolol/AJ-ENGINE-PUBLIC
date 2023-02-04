@@ -5,22 +5,22 @@
 			"gf",
 			[
 				255,
-				113,
+				33,
 				253
 			]
 		]
 	],
 	"hiddenUntilUnlocked": false,
 	"hideFreeplay": false,
-	"weekBackground": "stage",
+	"weekBackground": "vazio",
 	"difficulties": "",
 	"weekCharacters": [
-		"boshimenu",
-		"",
-		"toshimenu"
+		"boshidate",
+		"toshidate",
+		""
 	],
-	"storyName": "date",
-	"weekName": "Custom Week",
+	"storyName": "luzes pisacantes",
+	"weekName": "luz pisacntes",
 	"freeplayColor": [
 		146,
 		113,
