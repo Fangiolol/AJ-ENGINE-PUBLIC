@@ -50,14 +50,14 @@ class MainMenuState extends MusicBeatState
 	override function create()
 	{
 		
-		Main.dumpCache()
+		Main.dumpCache();
 		
 		#if MODS_ALLOWED
 		Paths.pushGlobalMods();
 		#end
 		WeekData.loadTheFirstEnabledMod();
 
-		#if desktop
+		#if FEATURE_DISCORD_RPC
 		// Updating Discord Rich Presence
 		DiscordClient.changePresence("Nos Menus", null);
 		#end
