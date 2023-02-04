@@ -160,7 +160,7 @@ class WeekData {
 		for (i in 0...directories.length) {
 			var directory:String = directories[i] + 'weeks/';
 			if(Util.exists(directory)) {
-				var listOfWeeks:Array<String> = Assets.getText(directory + 'weekList.txt');
+				var listOfWeeks:Array<String> = CoolUtil.coolTextFile(directory + 'weekList.txt');
 				for (daWeek in listOfWeeks)
 				{
 					var path:String = directory + daWeek + '.json';
@@ -210,7 +210,7 @@ class WeekData {
 		var rawJson:String = null;
 		
 		if(Assets.exists(path)) {
-			rawJson = Tools.getContent(path);
+			rawJson = Assets.getText(path);
 		}
 		
 		if(OpenFlAssets.exists(path)) {
