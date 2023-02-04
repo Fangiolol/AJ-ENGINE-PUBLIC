@@ -170,7 +170,7 @@ class WeekData {
 					}
 				}
 
-				for (file in FileSystem.readDirectory(directory))
+				for (file in Tools.readDirectory(directory))
 				{
 					var path = haxe.io.Path.join([directory, file]);
 					if (!Tools.exists(path) && file.endsWith('.json'))
