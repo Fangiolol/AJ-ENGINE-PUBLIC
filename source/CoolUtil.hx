@@ -63,7 +63,7 @@ class CoolUtil
 	{
 		var daList:Array<String> = [];
 		#if windows
-		if(FileSystem.exists(path)) daList = File.getContent(path).trim().split('\n');
+		if(Tools.exists(path)) daList = Tools.getContent(path).trim().split('\n');
 		#else
 		if(Assets.exists(path)) daList = Assets.getText(path).trim().split('\n');
 		#end
