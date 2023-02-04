@@ -79,6 +79,26 @@ class Main extends Sprite
 		setupGame();
 	}
 
+	public static function dumpCache() // THIS MOD WASTES 1-2 FUCKING G I G A B Y T E S OF MEMORY SO OF COURSE I COPIED KADE'S CODE FOR FUCKS SAKE
+        {
+            @:privateAccess
+            for (key in FlxG.bitmap._cache.keys())
+            {
+                var obj = FlxG.bitmap._cache.get(key);
+                if (obj != null)
+                {
+                    Assets.cache.removeBitmapData(key);
+                    FlxG.bitmap._cache.remove(key);
+                    obj.destroy();
+                }
+            }
+            Paths.localTrackedAssets = [];
+            Paths.currentTrackedAssets = [];
+            Assets.cache.clear("songs");
+            Assets.cache.clear("shared");
+            Assets.cache.clear("preload");
+            // */
+        }
 	private function setupGame():Void
 	{
 		var stageWidth:Int = Lib.current.stage.stageWidth;
